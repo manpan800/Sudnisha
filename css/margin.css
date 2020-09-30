@@ -1,8 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 body {
     background: rgb(241, 242, 243);
     font-size: 14px;
-    padding: 0;
-    margin: 0;
     height: 100%;
 }
 
